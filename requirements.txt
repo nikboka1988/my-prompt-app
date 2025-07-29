@@ -1,0 +1,17 @@
+# Streamlit-ისთვის
+streamlit==1.37.0
+
+# Google Cloud სერვისებისთვის
+google-cloud-aiplatform==1.61.0  # Vertex AI-სთვის (Gemini 1.5 Pro)
+google-cloud-firestore==2.16.0  # Firestore მონაცემთა ბაზისთვის
+
+# უსაფრთხოება და დამხმარე
+bcrypt==4.2.0                  # პაროლების ჰეშირებისთვის
+python-dotenv==1.0.1           # .env ფაილის ლოკალურად წასაკითხად
+numpy==2.0.1                   # ვექტორულ გამოთვლებისთვის
+
+
+docx2txt==0.8
+streamlit
+google-cloud-aiplatform
+numpy
